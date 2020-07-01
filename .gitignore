@@ -1,3 +1,9 @@
+# not staged files
+src_original/*
+src_original
+vine-sites.txt
+wine-searcher.html
+
 # Logs
 logs
 *.log
